@@ -1,5 +1,5 @@
 1. Requisitos Funcionais (RF)
-Os requisitos funcionais descrevem as ações que o sistema deve ser capaz de realizar.
+
 
 RF01 - Manter Cadastro de Cinemas: Permitir a inclusão, alteração e exclusão de unidades (nome, endereço e capacidade).
 
