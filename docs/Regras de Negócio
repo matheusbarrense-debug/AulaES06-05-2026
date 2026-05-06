@@ -1,0 +1,11 @@
+Regras de Negócio (RN)
+
+RN01 - Choque de Horários: Uma sessão não pode ser agendada em uma sala se o horário coincidir com outra sessão em andamento na mesma sala.
+
+RN02 - Intervalo Operacional: Deve haver um intervalo mínimo obrigatório de 20 minutos entre o fim de uma sessão e o início da próxima na mesma sala (para limpeza e circulação).
+
+RN03 - Limite de Capacidade: O registro de público de uma sessão não pode exceder a capacidade máxima da sala onde ela ocorre.
+
+RN04 - Integridade Cronológica: Não é permitido registrar público para sessões que ainda não ocorreram (data/hora futura).
+
+RN05 - Unicidade de Exibição: Um cinema só pode exibir filmes que estejam com o status "Em Cartaz".
