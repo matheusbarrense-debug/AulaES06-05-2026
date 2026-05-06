@@ -1,0 +1,14 @@
+1. Requisitos Funcionais (RF)
+Os requisitos funcionais descrevem as ações que o sistema deve ser capaz de realizar.
+
+RF01 - Manter Cadastro de Cinemas: Permitir a inclusão, alteração e exclusão de unidades (nome, endereço e capacidade).
+
+RF02 - Manter Catálogo de Filmes: Registrar títulos, sinopses, diretores, elenco, gêneros e duração.
+
+RF03 - Gerenciar Programação de Sessões: Alocar filmes em salas e horários específicos para cada unidade.
+
+RF04 - Registrar Público: Lançar a quantidade de ingressos vendidos/público presente após o encerramento de cada sessão.
+
+RF05 - Consultar Informações: Pesquisar filmes por gênero, diretor ou elenco.
+
+RF06 - Relatórios de Desempenho: Gerar totais de público agrupados por sessão, por filme e por unidade de cinema.
